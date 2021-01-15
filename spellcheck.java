@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 import java.util.*;
+//second semester has arrays and ArrayLists which this program demonstrates
 
 public class spellcheck {
     public static String Checker(String input)
